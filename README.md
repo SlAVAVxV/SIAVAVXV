@@ -4,7 +4,7 @@
 
 🚀 **Сейчас работаю над:** Дипломом по генеративному ИИ (преобразование видео в игры).  
 🌱 **Углубленно изучаю:** Computer Vision (SAM 2), LLMs и MLOps.  
-📫 **Связаться со мной:** [Telegram](https://t.me/SIAVAVXV) | Email: твоя_почта@mail.com  
+📫 **Связаться со мной:** [Telegram](https://t.me/@AIGenesiss) | Email: svyacheslaw21@gmail.com  
 
 ---
 
